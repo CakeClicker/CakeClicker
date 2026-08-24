@@ -56,24 +56,6 @@ I like clean code, simple solutions and building stuff that is actually useful.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/CakeClicker/CakeClicker/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/CakeClicker/CakeClicker/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2"
-    height="180"
-    alt="Top Languages"
-  />
-</div>
-
----
-
 <div align="center">
   <sub>building things, breaking things, fixing them again.</sub>
 </div>
